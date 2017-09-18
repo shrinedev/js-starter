@@ -22,7 +22,7 @@ module.exports = {
     "webapp": {
       "module": "electrode-react-webapp/lib/hapi",
       "options": {
-        "pageTitle": "passage-network",
+        "pageTitle": "js-starter",
         "paths": {
           "/{args*}": {
             "content": {
