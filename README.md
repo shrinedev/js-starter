@@ -1,4 +1,4 @@
-# js-starter [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# js-starter
 > A React / Hapi starter project powered by electrode
 
 ## Installation
